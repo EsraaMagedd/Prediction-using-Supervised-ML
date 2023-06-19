@@ -1,5 +1,5 @@
 # Prediction-using-Supervised-ML
-Predicting the percentage of a student based on the no. of study hours
+Predicting the percentage of a student based on the no. of study hours.
 
 This code performs a simple linear regression analysis to predict a student's percentage score based on the number of hours they studied. It uses the Python machine learning library scikit-learn to split data into training and testing sets, train the algorithm, and predict test set results.
 
